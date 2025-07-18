@@ -1,0 +1,15 @@
+{
+  "originHash" : "453fea5bce6b177ad3157e2296d5de4ad8201d26e35e0b3c65308818667f65fe",
+  "pins" : [
+    {
+      "identity" : "lima-ios-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Aniview/lima-ios-spm",
+      "state" : {
+        "revision" : "e7b723535b488fd2fe06c8707afb3fca4cbac717",
+        "version" : "0.0.3"
+      }
+    }
+  ],
+  "version" : 3
+}
